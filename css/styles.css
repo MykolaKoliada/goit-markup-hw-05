@@ -120,6 +120,11 @@ a {
   font-weight: 500;
 }
 
+.site-nav-link::after {
+  
+}
+
+
 .site-nav-link.current {
   color: var(--accent-color);
   
